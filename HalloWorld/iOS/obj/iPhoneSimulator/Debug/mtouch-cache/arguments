@@ -1,0 +1,35 @@
+# Version: 7.2.6.28 (606f31a)
+# [first argument, ignore] # /Users/masanori/Documents/Labelier/MOMO/HalloWorld/iOS/bin/iPhoneSimulator/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/masanori/Documents/Labelier/MOMO/HalloWorld/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/masanori/Documents/Labelier/MOMO/HalloWorld/iOS/bin/iPhoneSimulator/Debug/HalloWorldiOS.app \
+	-r \
+	/Users/masanori/Documents/Labelier/MOMO/HalloWorld/HalloWorld/bin/Debug/HalloWorld.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/masanori/Documents/Labelier/MOMO/HalloWorld/packages/Xamarin.Forms.1.2.2.6243/lib/MonoTouch10/Xamarin.Forms.Platform.iOS.dll \
+	-r \
+	/Users/masanori/Documents/Labelier/MOMO/HalloWorld/packages/Xamarin.Forms.1.2.2.6243/lib/MonoTouch10/Xamarin.Forms.Core.dll \
+	-r \
+	/Users/masanori/Documents/Labelier/MOMO/HalloWorld/packages/Xamarin.Forms.1.2.2.6243/lib/MonoTouch10/Xamarin.Forms.Xaml.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	7.1 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/masanori/Documents/Labelier/MOMO/HalloWorld/iOS/bin/iPhoneSimulator/Debug/HalloWorldiOS.exe \

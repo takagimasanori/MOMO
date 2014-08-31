@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="Android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="HalloWorld/App.cs" Line="1" Column="1" />
+      <File FileName="HalloWorld/HomePage.cs" Line="1" Column="1" />
+      <File FileName="HalloWorld/SecondPage.cs" Line="1" Column="1" />
+      <File FileName="HalloWorld/ThirdPage.cs" Line="1" Column="1" />
+      <File FileName="HalloWorld/FourthPage.cs" Line="1" Column="1" />
+      <File FileName="HalloWorld/MyCalender.cs" Line="1" Column="1" />
+      <File FileName="HalloWorld/FifthPage.cs" Line="1" Column="1" />
+      <File FileName="HalloWorld/SixthPage.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="HalloWorld/SeventhPage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HalloWorld.Android MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" />
+</Properties>
