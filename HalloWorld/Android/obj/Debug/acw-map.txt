@@ -2,6 +2,10 @@ HalloWorld.Android.MainActivity;halloworld.android.MainActivity
 HalloWorld.Android.SecondActivity;halloworld.android.SecondActivity
 HalloWorld.Android.SeventhPageRenderer;halloworld.android.SeventhPageRenderer
 HalloWorld.Android.TimerActivity;halloworld.android.TimerActivity
+HalloWorld.Android.MyWebApiPage;halloworld.android.MyWebApiPage
+HalloWorld.Android.MyWebApiPage_json;halloworld.android.MyWebApiPage_json
+HalloWorld.Android.MyWebApiPage2;halloworld.android.MyWebApiPage2
+HalloWorld.Android.GeoLocator_Android.MyLocationListener;halloworld.android.GeoLocator_Android_MyLocationListener
 Xamarin.Forms.Platform.Android.AndroidActivity;xamarin.forms.platform.android.AndroidActivity
 Xamarin.Forms.Platform.Android.BaseCellView;xamarin.forms.platform.android.BaseCellView
 Xamarin.Forms.Platform.Android.CellRenderer.RendererHolder;xamarin.forms.platform.android.CellRenderer_RendererHolder

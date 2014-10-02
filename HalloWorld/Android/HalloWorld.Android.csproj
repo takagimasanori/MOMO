@@ -54,6 +54,11 @@
     <Reference Include="Xamarin.Android.Support.v4">
       <HintPath>..\packages\Xamarin.Android.Support.v4.20.0.0.3\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll</HintPath>
     </Reference>
+    <Reference Include="System.Json" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.5\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HalloWorld\HalloWorld.csproj">
@@ -68,6 +73,11 @@
     <Compile Include="SecondActivity.cs" />
     <Compile Include="SeventhPageRenderer.cs" />
     <Compile Include="TimerActivity.cs" />
+    <Compile Include="MyWebApiPage.cs" />
+    <Compile Include="MyWebApiPage_json.cs" />
+    <Compile Include="MyJson.cs" />
+    <Compile Include="MyWebApiPage2.cs" />
+    <Compile Include="GeoLocator_Android.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -81,6 +91,7 @@
     <AndroidResource Include="Resources\drawable\Icon.png" />
     <AndroidResource Include="Resources\drawable\test.jpg" />
     <AndroidResource Include="Resources\layout\MySeventhPage.axml" />
+    <AndroidResource Include="Resources\layout\MyWebApiLayoutPage.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Forms.1.2.2.6243\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.1.2.2.6243\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10\Xamarin.Forms.targets')" />

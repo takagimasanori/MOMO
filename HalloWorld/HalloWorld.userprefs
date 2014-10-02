@@ -1,19 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Android/MyWebApiPage_json.cs">
     <Files>
-      <File FileName="Android/MainActivity.cs" Line="1" Column="1" />
-      <File FileName="HalloWorld/App.cs" Line="1" Column="1" />
       <File FileName="HalloWorld/HomePage.cs" Line="1" Column="1" />
-      <File FileName="HalloWorld/SecondPage.cs" Line="1" Column="1" />
-      <File FileName="HalloWorld/ThirdPage.cs" Line="1" Column="1" />
-      <File FileName="HalloWorld/FourthPage.cs" Line="1" Column="1" />
-      <File FileName="HalloWorld/MyCalender.cs" Line="1" Column="1" />
-      <File FileName="HalloWorld/FifthPage.cs" Line="1" Column="1" />
-      <File FileName="HalloWorld/SixthPage.cs" Line="1" Column="1" />
-      <File FileName="iOS/Main.cs" Line="1" Column="1" />
-      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
       <File FileName="HalloWorld/SeventhPage.cs" Line="1" Column="1" />
+      <File FileName="Android/SeventhPageRenderer.cs" Line="1" Column="1" />
+      <File FileName="Android/SecondActivity.cs" Line="1" Column="1" />
+      <File FileName="Android/MyJson.cs" Line="1" Column="1" />
+      <File FileName="Android/MyWebApiPage_json.cs" Line="12" Column="12" />
+      <File FileName="Android/MyWebApiPage.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -82,6 +82,13 @@ namespace HalloWorld
 							Command = navigateCommand,
 							CommandParameter = typeof(SeventhPage),
 						},
+
+						new TextCell
+						{
+							Text = "item7(xaml editor)",
+							Command = navigateCommand,
+							CommandParameter = typeof(DataPage),
+						},
 					},
 				}
 			};

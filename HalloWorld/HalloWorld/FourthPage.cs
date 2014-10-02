@@ -6,6 +6,7 @@ namespace HalloWorld
 	{
 		public FourthPage ()
 		{
+			Title = "ImagePage";
 			Label header = new Label
 			{
 				Text = "FourthPage",

@@ -8,7 +8,7 @@ namespace HalloWorld
 		public string Heading;
 		public SeventhPage ()
 		{
-			Title = "This is the seventh page.";
+			Title = "seventh page.";
 			Heading = "This is the third page";
 		}
 	}

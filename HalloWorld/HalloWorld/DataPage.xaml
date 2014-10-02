@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="HalloWorld.DataPage">
+	<ContentPage.Content>
+		<StackLayout>
+			<Entry
+				x:Name = "text1"
+				Keyboard = "Text"
+				Placeholder = "Input your name."
+			/>
+			<Entry
+				x:Name = "text2"
+				Keyboard = "Text"
+				Placeholder = "Input your age."
+			/>
+			<Button
+				Text = "Click"
+				Clicked = "OnClick"
+			/>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

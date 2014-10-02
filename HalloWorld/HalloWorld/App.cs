@@ -35,7 +35,7 @@ namespace HalloWorld
 			};
 
 			return navPage;*/
-
+			/*
 			var tabs = new TabbedPage ();
 			tabs.Children.Add (new NavigationPage (new HomePage ()){Title = "home"});
 			tabs.Children.Add (new NavigationPage (new SecondPage ()){Title = "second"});
@@ -43,8 +43,9 @@ namespace HalloWorld
 			tabs.Children.Add (new NavigationPage (new FourthPage ()){Title = "fourth"});
 			tabs.Children.Add (new NavigationPage (new FifthPage ()){Title = "fifth"});
 			return tabs;
-
-			//return new NavigationPage (new HomePage ());
+			*/
+			//return new NavigationPage (new MyTabbedPage ());
+			return new NavigationPage (new HomePage ());
 
 		}
 
@@ -99,6 +100,33 @@ namespace HalloWorld
 
 			return mainPage;
 
+		}
+
+		public static Page GpsSamplePage()
+		{
+			var buttonStartGps = new Button
+			{
+				Text = "Start GPS"
+			};
+
+			var labelLatLon = new Label
+			{
+			};
+
+			return new ContentPage
+			{
+				Content = new StackLayout
+				{
+					Orientation = StackOrientation.Vertical,
+					VerticalOptions = LayoutOptions.CenterAndExpand,
+					HorizontalOptions = LayoutOptions.CenterAndExpand,
+						Children =
+						{
+							buttonStartGps,
+							labelLatLon
+						}
+					}
+			};
 		}
 	}
 }

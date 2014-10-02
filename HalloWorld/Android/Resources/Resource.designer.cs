@@ -24,6 +24,10 @@ namespace HalloWorld.Android
 			global::Android.Runtime.ResourceIdManager.UpdateIdValues();
 		}
 		
+		public static void UpdateIdValues()
+		{
+		}
+		
 		public partial class Attribute
 		{
 			
@@ -101,6 +105,9 @@ namespace HalloWorld.Android
 			
 			// aapt resource value: 0x7f030001
 			public const int MySeventhPage = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int MyWebApiLayoutPage = 2130903042;
 			
 			static Layout()
 			{

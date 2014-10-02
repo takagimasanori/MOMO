@@ -1,9 +1,10 @@
-/Users/masanori/Projects/HalloWorld/Android/bin/Debug/HalloWorld.Android.dll
-/Users/masanori/Projects/HalloWorld/packages/Xamarin.Forms.1.2.2.6243/lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll
-/Users/masanori/Projects/HalloWorld/packages/Xamarin.Forms.1.2.2.6243/lib/MonoAndroid10/Xamarin.Forms.Core.dll
-/Users/masanori/Projects/HalloWorld/packages/Xamarin.Forms.1.2.2.6243/lib/MonoAndroid10/Xamarin.Forms.Xaml.dll
-/Users/masanori/Projects/HalloWorld/packages/Xamarin.Android.Support.v4.20.0.0.3/lib/MonoAndroid10/Xamarin.Android.Support.v4.dll
-/Users/masanori/Projects/HalloWorld/HalloWorld/bin/Debug/HalloWorld.dll
+/Users/masanori/Documents/Labelier/MOMO/HalloWorld/Android/bin/Debug/HalloWorld.Android.dll
+/Users/masanori/Documents/Labelier/MOMO/HalloWorld/packages/Xamarin.Forms.1.2.2.6243/lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll
+/Users/masanori/Documents/Labelier/MOMO/HalloWorld/packages/Xamarin.Forms.1.2.2.6243/lib/MonoAndroid10/Xamarin.Forms.Core.dll
+/Users/masanori/Documents/Labelier/MOMO/HalloWorld/packages/Xamarin.Forms.1.2.2.6243/lib/MonoAndroid10/Xamarin.Forms.Xaml.dll
+/Users/masanori/Documents/Labelier/MOMO/HalloWorld/packages/Xamarin.Android.Support.v4.20.0.0.3/lib/MonoAndroid10/Xamarin.Android.Support.v4.dll
+/Users/masanori/Documents/Labelier/MOMO/HalloWorld/packages/Newtonsoft.Json.6.0.5/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll
+/Users/masanori/Documents/Labelier/MOMO/HalloWorld/HalloWorld/bin/Debug/HalloWorld.dll
 /Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Collections.Concurrent.dll
 /Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Collections.dll
 /Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.ComponentModel.Annotations.dll
